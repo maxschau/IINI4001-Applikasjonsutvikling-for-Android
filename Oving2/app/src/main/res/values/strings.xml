@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Oving2</string>
+    <string name="add">Adder</string>
+    <string name="mult">Multipliser</string>
+    <string name="ans">Svar: </string>
+    <string name="limit">Øvre grense:</string>
+    <string name="correct">Riktig!</string>
+    <string name="wrong">Feil! Riktig svar er: </string>
+    <string name="upLimit">Øvre grense:</string>
+    <string name="yourans">Ditt svar:</string>
+    <string name="numb1">3</string>
+    <string name="numb2">5</string>
+    <string name="numb3">8</string>
+    <string name="numb4">10</string>
+</resources>
