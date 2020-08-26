@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oving3</string>
+    <string name="name">Navn:</string>
+    <string name="birth">Fødselsdato:</string>
+    <string name="save">Lagre</string>
+    <string name="change">Endre person</string>
+</resources>
