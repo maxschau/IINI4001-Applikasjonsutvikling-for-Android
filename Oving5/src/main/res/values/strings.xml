@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oving5</string>
+    <string name="name">Navn</string>
+    <string name="card">Kortnummer</string>
+    <string name="send">Send</string>
+    <string name="restart">Start på nytt</string>
+    <string name="desc">Oppgi et tall mellom 1 og 10!</string>
+</resources>
