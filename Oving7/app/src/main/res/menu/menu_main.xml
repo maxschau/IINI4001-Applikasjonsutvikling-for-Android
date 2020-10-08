@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="https://schemas.android.com/apk/res-auto"
+    xmlns:tools="https://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/lightblue"
+        android:title="@string/lightblue"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/yellow"
+        android:title="@string/yellow"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/white"
+        android:title="@string/white"
+        app:showAsAction="always" />
+
+</menu>

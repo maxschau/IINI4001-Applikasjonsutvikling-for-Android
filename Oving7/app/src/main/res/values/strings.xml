@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Oving7</string>
+    <string name="lightblue">Lyseblå</string>
+    <string name="yellow">Gul</string>
+    <string name="white">Hvit</string>
+    <string name="lightblue_value">#00bfff</string>
+    <string name="yellow_value">#f0f209</string>
+    <string name="white_value">ffffff</string>
+    <string name="authors">Forfattere</string>
+    <string name="books">Bøker</string>
+
+    <string-array name="color_names">
+        <item>@string/yellow</item>
+        <item>@string/lightblue</item>
+        <item>@string/white</item>
+    </string-array>
+    <string-array name="color_values">
+        <item>@string/yellow_value</item>
+        <item>@string/lightblue_value</item>
+        <item>@string/white_value</item>
+    </string-array>
+</resources>
